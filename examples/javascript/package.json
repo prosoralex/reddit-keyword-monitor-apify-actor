@@ -1,0 +1,8 @@
+{
+  "name": "reddit-keyword-monitor-example",
+  "private": true,
+  "type": "module",
+  "description": "Client example for the Reddit Scraper — Keyword & Subreddit Monitor Apify Actor",
+  "scripts": { "start": "node example.mjs" },
+  "dependencies": { "apify-client": "^2.9.0" }
+}
